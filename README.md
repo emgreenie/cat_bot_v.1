@@ -2,7 +2,7 @@ requirements:
   python
   LM studio
   Hugging Face account
-  llama-3.2-1b-instruct - downloaded, and selected llm
+  hugging-quants/Llama-3.2-1B-Instruct-Q8_0-GGUF - downloaded, and selected llm
   ensure status is 'running'
 
   pip installs:
